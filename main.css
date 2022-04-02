@@ -1,0 +1,14 @@
+form{
+    width: 100%;
+    background-color: rgb(103, 167, 103);
+    text-align: center;
+
+}
+body{
+    background-color: black;
+}
+input{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
